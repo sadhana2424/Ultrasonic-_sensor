@@ -25,7 +25,7 @@ This project measures the distance of nearby objects using an HC-SR04 Ultrasonic
 
 ### Hardware Setup
 
-![Hardware Setup](hardwarw2.png)
+![Hardware Setup](hardware2.png)
 
 ## Demo Video
 
