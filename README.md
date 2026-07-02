@@ -50,10 +50,10 @@ Move an object in front of the sensor and observe the distance reading.
 
 ![Hardware Setup](hardware2.png)
 
-## Demo Video
-▶️ Project Demo:
-https://raw.githubusercontent.com/sadhana2424/Ultrasonic-_sensor/main/ultrasonic%20sensor.mp4
 
+## 🎥 Project Demo
+
+▶️ [Watch Project Demo](https://raw.githubusercontent.com/sadhana2424/Ultrasonic-_sensor/main/ultrasonic%20sensor.mp4)
 
 ## 📊 Sample Output
 Distance	Status,
