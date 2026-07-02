@@ -42,6 +42,19 @@ Copy the IP address displayed.
 Open the IP address in your browser.
 Move an object in front of the sensor and observe the distance reading.
 
+### Web Dashboard
+
+![Web Dashboard](hardware1.png)
+
+### Hardware Setup
+
+![Hardware Setup](hardware2.png)
+
+## Demo Video
+▶️ Project Demo:
+https://raw.githubusercontent.com/sadhana2424/Ultrasonic-_sensor/main/ultrasonic%20sensor.mp4
+
+
 ## 📊 Sample Output
 Distance	Status,
 0–10 cm	Very Close,
@@ -70,17 +83,6 @@ HTML,
 CSS
 
 
-### Web Dashboard
-
-![Web Dashboard](hardware1.png)
-
-### Hardware Setup
-
-![Hardware Setup](hardware2.png)
-
-## Demo Video
-
-🎥 [Watch Project Demo](https://drive.google.com/file/d/1Ce3LrrWuqdqoDwebxSmZDOWUzq4CT7vN/view?usp=drivesdk)
 
 ## Author
 
